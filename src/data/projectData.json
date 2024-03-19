@@ -1,0 +1,31 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "name": "Web Designing",
+            "type": "Full Time",
+            "startDate": "12-12-2022",
+            "endDate": "01-03-2023",
+            "company": "ABA",
+            "detail": "I’m working on frontEnd Design using ReactJS with TailwindCSS."
+        },
+        {
+            "id": 2,
+            "name": "Mobile App",
+            "type": "Part Time",
+            "startDate": "01-01-2022",
+            "endDate": "03-04-2022",
+            "company": "APD",
+            "detail": "I am working as a Mobile app developer for an e-commerce project."
+        },
+        {
+            "id": 3,
+            "name": "UX-UI Design",
+            "type": "Freelance",
+            "startDate": "01-02-2023",
+            "endDate": "03-04-2024",
+            "company": "KOSIGN",
+            "detail": "I’m working as a UX-UI designer on 2 projects there. One is Leaving management System and another one is E-commerce project."
+        }
+    ]
+}
