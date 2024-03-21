@@ -24,7 +24,7 @@ export const Message = ({ profile, name, message, date }) => {
 
                         }
                     </div>
-                    <p className="text-xs">{message}</p>
+                    <p className="text-xs line-clamp-2">{message}</p>
                     <p className="flex flex-col items-end text-sm">{date}</p>
                 </div>
 

@@ -105,10 +105,10 @@ const App = () => {
         <div className="col-span-11 overflow-hidden">
           <Navbar />
           <div className="grid grid-cols-12 h-[95%]">
-            <div className="col-span-9 overflow-y-scroll">
+            <div className="col-span-9 overflow-y-scroll no-scrollbar">
               <Project formFunc={pullFormData} func={pullData} projectData={projectData} />
             </div>
-            <div className="col-span-3 overflow-y-scroll">
+            <div className="col-span-3 overflow-y-scroll no-scrollbar">
               <ClientMessage data={messageData} />
             </div>
           </div>
